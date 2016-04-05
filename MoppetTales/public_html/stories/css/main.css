@@ -224,8 +224,13 @@ body, html {
 
 body, html,
 .wowbook-container {
-	background: white url("../img/wood.jpg") repeat scroll 50% top ;
+	background: #f8f8f8;
+        font-family: "Lato","sans serif";
+        color: #505050;
+        padding-top: 50px;
+        letter-spacing: 0.5px;
 }
+
 
 
 /* hide book to avoid flash of unstyled content */
